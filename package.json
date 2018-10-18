@@ -1,0 +1,22 @@
+{
+  "name": "R2V2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xzdc",
+  "license": "ISC",
+  "dependencies": {
+    "decache": "^4.4.0",
+    "discord.js": "^11.3.2",
+    "discord.js-musicbot-addon": "^12.0.6",
+    "events": "^3.0.0",
+    "express": "^4.16.3",
+    "fs-": "^1.0.0",
+    "fs-extra": "^6.0.1",
+    "path": "^0.12.7",
+    "request": "^2.87.0"
+  }
+}
